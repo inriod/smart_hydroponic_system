@@ -88,13 +88,6 @@ The system design includes several testing stages:
 - **Performance Testing:** Testing reliability under changing conditions
 - **Security Testing:** Checking data protection and authorized access
 
-## Repository Contents
-
-- `documentation/` — Full project report and supporting documents
-- `diagrams/` — System diagrams and architecture visuals
-- `images/` — Project images and visual materials
-- `README.md` — Project overview and repository description
-
 ## Tools and Methods Used
 
 - Systems engineering documentation
